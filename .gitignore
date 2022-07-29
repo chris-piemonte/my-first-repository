@@ -1,0 +1,2 @@
+# Ignore all AQLite databases
+db/*.sqlite3
